@@ -1,3 +1,5 @@
+# Resources
+
 ## Recommended Learning Resources
 
 ### Blogs
