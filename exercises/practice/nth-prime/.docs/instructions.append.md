@@ -1,4 +1,4 @@
-## Hints
+# Instructions append
 For this exercise the following F# feature comes in handy:
 - [Sequences](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/sequences) are evaluated lazily. They allows you to work with an infinite sequence of values.
 
