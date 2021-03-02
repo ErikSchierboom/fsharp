@@ -10,5 +10,6 @@
     "example": [
       ".meta/Example.fs"
     ]
-  }
+  },
+  "blurb": "Implement various kinds of error handling and resource management"
 }

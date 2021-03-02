@@ -10,5 +10,6 @@
     "example": [
       ".meta/Example.fs"
     ]
-  }
+  },
+  "blurb": "Make a chain of dominoes."
 }

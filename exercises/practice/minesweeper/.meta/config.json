@@ -10,5 +10,6 @@
     "example": [
       ".meta/Example.fs"
     ]
-  }
+  },
+  "blurb": "Add the numbers to a minesweeper board"
 }

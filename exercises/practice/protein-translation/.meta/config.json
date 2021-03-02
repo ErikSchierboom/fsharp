@@ -11,5 +11,6 @@
       ".meta/Example.fs"
     ]
   },
+  "blurb": "Translate RNA sequences into proteins.",
   "source": "Tyler Long"
 }
