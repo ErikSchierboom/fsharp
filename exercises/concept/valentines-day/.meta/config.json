@@ -6,8 +6,15 @@
     }
   ],
   "files": {
-    "solution": ["ValentinesDay.fs"],
-    "test": ["ValentinesDayTests.fs"],
-    "exemplar": [".meta/Exemplar.fs"]
-  }
+    "solution": [
+      "ValentinesDay.fs"
+    ],
+    "test": [
+      "ValentinesDayTests.fs"
+    ],
+    "exemplar": [
+      ".meta/Exemplar.fs"
+    ]
+  },
+  "blurb": "TODO: add blurb for valentines-day exercise"
 }

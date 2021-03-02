@@ -5,10 +5,19 @@
       "exercism_username": "ErikSchierboom"
     }
   ],
-  "forked_from": ["javascript/booleans"],
+  "forked_from": [
+    "javascript/booleans"
+  ],
   "files": {
-    "solution": ["AnnalynsInfiltration.fs"],
-    "test": ["AnnalynsInfiltrationTests.fs"],
-    "exemplar": [".meta/Exemplar.fs"]
-  }
+    "solution": [
+      "AnnalynsInfiltration.fs"
+    ],
+    "test": [
+      "AnnalynsInfiltrationTests.fs"
+    ],
+    "exemplar": [
+      ".meta/Exemplar.fs"
+    ]
+  },
+  "blurb": "TODO: add blurb for annalyns-infiltration exercise"
 }
