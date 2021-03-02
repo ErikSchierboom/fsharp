@@ -5,10 +5,19 @@
       "exercism_username": "ErikSchierboom"
     }
   ],
-  "forked_from": ["csharp/arrays"],
+  "forked_from": [
+    "csharp/arrays"
+  ],
   "files": {
-    "solution": ["BirdWatcher.fs"],
-    "test": ["BirdWatcherTests.fs"],
-    "exemplar": [".meta/Exemplar.fs"]
-  }
+    "solution": [
+      "BirdWatcher.fs"
+    ],
+    "test": [
+      "BirdWatcherTests.fs"
+    ],
+    "exemplar": [
+      ".meta/Exemplar.fs"
+    ]
+  },
+  "blurb": "TODO: add blurb for bird-watcher exercise"
 }

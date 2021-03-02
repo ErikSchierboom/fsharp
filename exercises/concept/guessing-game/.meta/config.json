@@ -6,8 +6,15 @@
     }
   ],
   "files": {
-    "solution": ["GuessingGame.fs"],
-    "test": ["GuessingGameTests.fs"],
-    "exemplar": [".meta/Exemplar.fs"]
-  }
+    "solution": [
+      "GuessingGame.fs"
+    ],
+    "test": [
+      "GuessingGameTests.fs"
+    ],
+    "exemplar": [
+      ".meta/Exemplar.fs"
+    ]
+  },
+  "blurb": "TODO: add blurb for guessing-game exercise"
 }

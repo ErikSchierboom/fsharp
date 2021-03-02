@@ -5,10 +5,19 @@
       "exercism_username": "ErikSchierboom"
     }
   ],
-  "forked_from": ["csharp/datetimes"],
+  "forked_from": [
+    "csharp/datetimes"
+  ],
   "files": {
-    "solution": ["BookingUpForBeauty.fs"],
-    "test": ["BookingUpForBeautyTests.fs"],
-    "exemplar": [".meta/Exemplar.fs"]
-  }
+    "solution": [
+      "BookingUpForBeauty.fs"
+    ],
+    "test": [
+      "BookingUpForBeautyTests.fs"
+    ],
+    "exemplar": [
+      ".meta/Exemplar.fs"
+    ]
+  },
+  "blurb": "TODO: add blurb for booking-up-for-beauty exercise"
 }

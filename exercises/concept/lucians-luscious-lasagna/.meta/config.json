@@ -6,8 +6,15 @@
     }
   ],
   "files": {
-    "solution": ["LuciansLusciousLasagna.fs"],
-    "test": ["LuciansLusciousLasagnaTests.fs"],
-    "exemplar": [".meta/Exemplar.fs"]
-  }
+    "solution": [
+      "LuciansLusciousLasagna.fs"
+    ],
+    "test": [
+      "LuciansLusciousLasagnaTests.fs"
+    ],
+    "exemplar": [
+      ".meta/Exemplar.fs"
+    ]
+  },
+  "blurb": "TODO: add blurb for lucians-luscious-lasagna exercise"
 }

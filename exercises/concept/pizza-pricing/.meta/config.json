@@ -6,8 +6,15 @@
     }
   ],
   "files": {
-    "solution": ["PizzaPricing.fs"],
-    "test": ["PizzaPricingTests.fs"],
-    "exemplar": [".meta/Exemplar.fs"]
-  }
+    "solution": [
+      "PizzaPricing.fs"
+    ],
+    "test": [
+      "PizzaPricingTests.fs"
+    ],
+    "exemplar": [
+      ".meta/Exemplar.fs"
+    ]
+  },
+  "blurb": "TODO: add blurb for pizza-pricing exercise"
 }
